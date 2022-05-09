@@ -55,7 +55,7 @@ namespace ConsoleApp2
 
 
             }
-           
+           Console.WriteLine("by : Smile Man ^_^\n team : Red Planet");
         }
     }
 }
